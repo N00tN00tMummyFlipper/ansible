@@ -1,0 +1,5 @@
+total 76
+-rw-rw-r--. 1 vagrant vagrant   120 Mar  3 14:11 ansible.cfg
+-rw-rw-r--. 1 vagrant vagrant   222 Mar  3 14:00 ec2.ini
+-rwxrwxr-x. 1 vagrant vagrant 68938 Mar  3 13:16 ec2.py
+-rw-rw-r--. 1 vagrant vagrant     0 Mar  3 14:25 test.txt
